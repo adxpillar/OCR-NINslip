@@ -12,8 +12,7 @@ This project follows from the Indian Government Issued PAN Card OCR recognition 
   
 *__Note__: While using the API Versions of this program, kindly make sure that the image size that you're using for detection is less than 1 MB, with file size exceeding the threshold the program will render cold*
 
-First pass crop morphology output  
-(https://github.com/adxpillar/OCR-NINslip/blob/main/slip1.crop.png)  
+First pass crop morphology output(https://github.com/adxpillar/OCR-NINslip/blob/main/slip1.crop.png)  
 
 ## IDE and list of libraries used:
 
