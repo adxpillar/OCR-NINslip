@@ -8,6 +8,7 @@ opencv-python = "*"
 pillow = "*"
 numpy = "*"
 scipy = "*"
+common = "*"
 
 [dev-packages]
 
